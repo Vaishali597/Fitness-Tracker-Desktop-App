@@ -61,13 +61,6 @@ PyQt5\
 
 FITTRACK/ │ ├── main.py ├── fitness.db └── README.md
 
-## ⚙️ Installation Guide
-
-### Clone Repository
-
-git clone https://github.com/your-username/fitness-tracker.git cd
-fitness-tracker
-
 ### Install Dependencies
 
 pip install PyQt5 matplotlib numpy
